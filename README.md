@@ -1,4 +1,6 @@
-![Nathan](IMG/header.png)
+<p align="center">
+  <img src="IMG/header.png" alt="Headerbild" />
+</p>
 
 # 👋 Hi, I'm Nathan Dion Schmid
 

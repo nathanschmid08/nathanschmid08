@@ -1,9 +1,14 @@
-<h1>nathanschmid08</h1>
+<div align="center">
+  <h1>nathanschmid08</h1>
+</div>
 
-<img src="https://media.giphy.com/media/TYJGc5wB1ZlQDYbxhl/giphy.gif" width="480">
+<div align="center">
+  <img src="https://media.giphy.com/media/TYJGc5wB1ZlQDYbxhl/giphy.gif" width="400">
+</div>
 
+<div align="center">
 <h2>Core Skills</h2>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -24,5 +29,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
 </div>
-
-###

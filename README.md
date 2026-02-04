@@ -1,5 +1,7 @@
 <h1>nathanschmid08</h1>
 
+<img src="https://media.giphy.com/media/TYJGc5wB1ZlQDYbxhl/giphy.gif" width="480">
+
 <h2>Core Skills</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />

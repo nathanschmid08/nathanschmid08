@@ -2,7 +2,7 @@
   <img src="src/banner.jpeg" alt="">
 </div>
 
-<table>
+<table border="0">
 <tr>
 <td width="60%" valign="top">
 

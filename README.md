@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="src/banner.jpeg" alt="Nathan Schmid Banner" width="100%">
-</div>
-
-<br>
-
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -47,7 +41,6 @@ Build software that is simple to understand, enjoyable to maintain, and made to 
 
 <img src="src/avatar.png" width="280" alt="Nathan Schmid">
 
-<br><br>
 
 <div align="left">
 <h2>@nathanschmid08</h2>
